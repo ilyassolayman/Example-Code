@@ -1,4 +1,4 @@
-# READ ME - Example's of my code - Ilyas Solayman
+# Examples of my code - Ilyas Solayman
 
 If you follow the GitHub.Zip file you will find examples of my code in the languages Java, C++, C and Python
 
